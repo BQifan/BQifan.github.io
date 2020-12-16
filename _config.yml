@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: BQF
 
 # Gitalk
 gitalk:
@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "csee",
+        href: "http://csee.hnu.edu.cn/info/1062/10047.htm"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "zzu",
+        href: "http://www5.zzu.edu.cn/soft/info/1052/2676.htm"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "sohu",
+        href: "https://www.sohu.com/a/339647009_120068323"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "baidu",
+        href: "https://baike.baidu.com/item/%E6%AF%95%E8%B5%B7%E5%B8%86%E2%80%94%E6%AF%95%E6%B0%8F%E5%AE%97%E6%B4%BE/19780599?fr=aladdin"
     }
 ]
